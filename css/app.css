@@ -5123,9 +5123,10 @@ b {
   font-weight: bold;
   line-height: inherit; }
 
+.small,
 small {
-  font-size: 60%;
-  line-height: inherit; }
+  font-size: 75% !important;
+  line-height: 0.75 !important; }
 
 code {
   font-family: Consolas, "Liberation Mono", Courier, monospace;
