@@ -1,26 +1,57 @@
 ---
 layout: default
 ---
-
 <div class="row">
- <div class="large-9 columns">
-  {% for post in site.posts limit: 3 %}
-   <h3><a href="{{ post.url }}">{{ post.title}}</a></h3>
+  <div class="medium-9 columns">
+    {% for post in paginator.posts limit: 3 %}
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
- <div class="row">
-   <div class="large-12 columns">
-    {{ post.content }}
+    <div class="row">
+      <div class="medium-11 end columns" role="content">
+        {{ post.content | truncatewords: 100 }}
+      </div>
+    </div>
+    {% endfor %}
+
+    <div class="pagination">
+          <p>
+            {% if paginator.previous_page %}
+              {% if paginator.previous_page == 1 %}
+                <a href="/blog/" class="previous">Previous</a>
+              {% else %}
+                <a href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="previous">Previous</a>
+              {% endif %}
+            {% else %}
+              <span class="previous">Previous</span>
+            {% endif %}
+
+            <span class="page_number">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+            {% if paginator.next_page %}
+              <a href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="next">Next</a>
+            {% else %}
+              <span class="next">Next</span>
+            {% endif %}
+          </p>
+    </div>
+
    </div>
- </div>
- {% endfor %}
 
- <div class="large-4 columns">
-  <h4>Recent Writings</h4>
-  <p>From the archives of this journal:</p>
-   <ul class="disc">
+  <div class="medium-3 columns">
+    <h4>Recent Writings</h4>
+    <p>From the archives of this journal:</p>
+    <ul class="disc">
     {% for post in site.posts offset: 3 limit: 10 %}
-   </ul>
- </div>
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+    <div class="panel">
+     <section class="small">
+      <h4>About the 160 project</h4>
+      <p>The 'This Week in Eureka College History' column commemorates the 160th anniversary of the founding of Eureka College on Feb. 6, 1855. The column is scheduled to run weekly through Feb. 6, 2016.</p>
+      <p><a href="/blog/archive.html">See the full archive</a></p>
+     <p><a href="/feed.xml">Subscribe to Feed</a></p>
+     </section>
+    </div>
+  </div>
 
- </div>
 </div>
