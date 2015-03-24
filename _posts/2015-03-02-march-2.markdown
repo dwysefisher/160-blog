@@ -4,9 +4,15 @@ title: March 2
 date:   2015-03-02
 ---
 
+<article class="small-12 large-4 columns clearfix"> ![David Deweese]({{ site.baseurl }}/img/david-deweese.jpg "David Deweese")
+<p class="caption">David Deweese</p></article>
+
 David Deweese was born on March 7, 1801, in Knox County, Ky. One of the founders of Eureka College, Deweese is honored by having a residence hall in the Founders’ Court complex named in his memory. He served as a trustee of the college in its first year, 1855. Deweese was considered to be among the old-timers in the community of Walnut Grove/Eureka. His family had moved to the region in 1830, which was about five years prior to the large migration of Christian County, Ky., residents, so Deweese was already well-established in the settlement when the new emigrants arrived.
 
 On March 8, 1950, the first debate meet to be held on the Eureka College campus took place. The event was organized by Ivan Sparling, professor of speech and coach of the college's debate team. Debate had long been an essential part of the institution's heritage from the early days of the Walnut Grove Academy. In the early 1850s students organized the Pedotrophian (Boy Nurturing) Society in order to sponsor events that focused on extemporaneous public elocution. Sometimes the matters that were debated focused on integral public issues of the day, but at other times the debates centered on items that were nonsensical. One such forum was held on the topic "Resolved that the dishrag is more essential to housekeeping than the broom." The records do not indicate which side prevailed in that particular contest.
+
+![Eureka College pennant]({{ site.baseurl }}/img/ec-pennant.jpg "Eureka College pennant")
+<p class="caption">Eureka College pennant</p>
 
 It is interesting to note that early athletic "fight songs" associated with Eureka College include the institution's success in debates and other co-curricular activities along with athletic victories. In "A Eureka Glee," composed by Clyde L Lyon (Class of 1905), we find the verse:
 

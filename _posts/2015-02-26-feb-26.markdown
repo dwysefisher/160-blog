@@ -6,8 +6,14 @@ date:   2015-02-26 11:29:54
 
 On Feb. 27, 1856, the Trustees of Eureka College made the first purchase of land to enlarge the landholding of Eureka College. The original campus consisted of 15 acres that had been donated to the institution by Elias B. Myers and James Conover. The new addition, which was an additional 12 acres, was purchased from Abisha M. Myers for $150.
 
-On March 4, 1866, co-founder of the Christian Church movement Alexander Campbell died at his home in Bethany, W.V. Campbell was buried on a mountainside facing his home and the institution, Bethany College, that he had established. In 1900, and again in 2000, students from Eureka College traveled to the grave site of Campbell to obtain ivy from that site and transplant it on the Eureka College campus. During his lifetime, Campbell made two trips to Walnut Grove (Eureka). The first was in 1847 (before the Walnut Grove Seminary was founded) and the second was in 1853 (while the Walnut Grove Academy was in operation). It was during Campbell’s 1847 visit that the decision to build the first Christian Church in Walnut Grove was made. PHOTO: A plaque on Burgess Memorial Hall commemorates the 1900 trip by Eureka College students to obtain ivy from Alexander Campbell’s grave.
+![Alexander Campbell plaque]({{ site.baseurl }}/img/alexander-campbell-brick.jpg "Alexander Campbell plaque")
+<p class="caption">A plaque on Burgess Memorial Hall commemorates the 1900 trip by Eureka College students to obtain ivy from Alexander Campbell's grave. </p>
 
-On March 4, 1952, Ronald W. Reagan (Class of 1932) and Nancy Davis were married. PHOTO: Ronald Reagan, left, and his wife, Nancy, attended the 1957 commencement ceremony at Eureka College.
+On March 4, 1866, co-founder of the Christian Church movement Alexander Campbell died at his home in Bethany, W.V. Campbell was buried on a mountainside facing his home and the institution, Bethany College, that he had established. In 1900, and again in 2000, students from Eureka College traveled to the grave site of Campbell to obtain ivy from that site and transplant it on the Eureka College campus. During his lifetime, Campbell made two trips to Walnut Grove (Eureka). The first was in 1847 (before the Walnut Grove Seminary was founded) and the second was in 1853 (while the Walnut Grove Academy was in operation). It was during Campbell’s 1847 visit that the decision to build the first Christian Church in Walnut Grove was made.
+
+![Ronald and Nancy Reagan]({{ site.baseurl }}/img/reagans-1957.jpg "Ronald and Nancy Reagan")
+<p class="caption">Ronald Reagan, left, and his wife, Nancy, attended the 1957 commencement ceremony at Eureka College.</p>
+
+On March 4, 1952, Ronald W. Reagan (Class of 1932) and Nancy Davis were married.
 
 Construction of Melick Library began on March 1, 1966.
