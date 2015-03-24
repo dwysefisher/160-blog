@@ -2,8 +2,8 @@
 title: Eureka College @ 160
 email: web@eureka.edu
 description: "The 'This Week in Eureka College History' column commemorates the 160th anniversary of the founding of Eureka College on Feb. 6, 1855. The column is scheduled to run weekly through Feb. 6, 2016."
-baseurl: "/blog/" # the subpath of your site, e.g. /blog/
-url: "http://www.eureka.edu/160" # the base hostname & protocol for your site
+baseurl: "/160/blog" # the subpath of your site, e.g. /blog/
+url: "http://www.eureka.edu" # the base hostname & protocol for your site
 twitter_username: eurekacollege
 
 # Build settings
