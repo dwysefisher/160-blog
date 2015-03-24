@@ -6162,6 +6162,12 @@ footer {
 .blog-title {
   margin-bottom: 1rem; }
 
+.caption {
+ font-size: 0.8rem;
+ font-family: "chaparral-pro", "Helvetica", Helvetica, Arial, sans-serif !important;
+ color: #808080;
+}
+
 .one {
   background-color: WhiteSmoke;
   padding: 1em;
