@@ -1,0 +1,50 @@
+---
+layout: post
+title: April 9
+date:   2015-04-09
+---
+
+April 6, 1862, marked the first day of fighting in the U.S. Civil War Battle of Shiloh along the Tennessee River at Pittsburgh Landing, Tenn. Eureka College students who were enlisted in Company G of the 17th Illinois Infantry found themselves in the thick of the fighting as the battle began on Palm Sunday morning in the Tennessee springtime. Before the day ended, James Skelton, a Eureka College student, lay dead among the fallen peach blossoms, and several of the student-soldiers were seriously wounded.
+
+![James Skelton grave marker]({{ site.baseurl }}/img/skelton-grave.jpg "James Skelton")
+<p class="caption">James Skelton grave marker</p>
+
+In a letter that Eureka College professor and Army captain Otis Asa Burgess wrote home to the Skelton family announcing the tragic death of Jimmy, he stated:
+
+> "During this fearful struggle your son fought like a hero - never once flinching - never quitting his post. But he fell in the thickest of the fight and as he was borne from the field by his comrades he seemed to be aware that his wound was fatal and his last words were - to those bearing him off – 'Boys I believe I must die - but I die in the cause of my country.'"
+
+April 7, 1862, marked the second and final day of the Battle of Shiloh. Students and faculty from Eureka College were among those enlisted in Company G of the 17th Illinois Infantry who sustained heavy casualties in the two days of fighting. They included:
+
+Those killed:
+
+* John F. Lightcap (buried in Olio Cemetery)
++ E.V. Barker
++ James S. Skelton (EC student, buried in Olio Cemetery)
+
+The badly wounded:
+
+* Charles R. Dickinson (EC student, buried in Olio Cemetery)
+* William T. Benson
+* Jesse L. Waughop
+* Joseph Strouder
+* David H. Trunnel
+* John Long
+* Jesse W. Evans (EC student)
+* Fritz Nurgarth (wounded and missing)
+
+The slightly wounded:
+
+* John Lyons
+* S.A. Hoyt
+* George Brown
+* Cyrus H. Benson (EC student)
+* John Brocksitter
+* Joseph Caspers
+* Robert C. Nance (EC student)
+
+<hr>
+
+![A piece of the Berlin Wall]({{ site.baseurl }}/img/Berlin-Wall-torch.jpg "Reagan at WHO radio")
+<p class="caption">Eureka College's section of the Berlin Wall</p>
+
+On April 6, 2000, a wooden crate marked "FRAGILE" arrived on the Eureka College campus bearing a 2,200-pound artifact. It was a portion of the Berlin Wall. The 4-foot by 5-foot section was a gift from the Federal Republic of Germany and was given to Eureka College to be included in the Reagan Peace Garden that was being developed.
