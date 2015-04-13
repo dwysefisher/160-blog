@@ -1,0 +1,26 @@
+---
+layout: post
+title: April 16
+date:   2015-04-16
+---
+
+On April 15, 1861, President Abraham Lincoln issued a call for 75,000 volunteers who were needed for 90 days of service in the wake of hostilities that had begun at Fort Sumter. Those Eureka College students who initially enlisted did so under the terms of Lincoln's call for volunteers. They then believed that the victory would be quick and easy, but they were mistaken.
+
+Benjamin J. Radford Jr., one of the members of Company G of the 17th Illinois Infantry, later wrote, "When we of Company G went out in May 1861, it looked more like a romantic adventure, in which we should have some novel experiences and perhaps enough fighting for thrills, but it would not last very long."
+
+Although Minnie Vautrin has no Eureka College connection, the Secor native has a fascinating story. April 14, 1940, marked the last entry in a diary that was kept by Vautrin, who who had served for nearly two decades as a missionary in China. Vautrin's diary records her experiences during the Rape of Nanking in December 1937, during which she helped to save the lives of 10,000 Chinese women and children during the assault upon that city. Vautrin opened the campus of Gingling College to those who sought refuge, and she prevented the Japanese military from searching the campus.
+
+Vautrin's diary has been compared to that of Anne Frank in terms of its poignancy and historical significance. The Chinese refer to Minnie Vautrin as the Living Goddess of Mercy. Physically and emotionally spent by the experience, Vautrin's health fell into disrepair. By 1940 she had to leave China to return to the United States for medical care. She attempted suicide when crossing the ocean, and when she returned to the United States she was institutionalized. In May 1941 she took her own life.
+
+On April 14, 1942, Ronald W. Reagan, Class of 1932, entered the U.S. Army as a 2nd Lt. of Cavalry in reserve. Due to his poor eyesight, Reagan did not serve in active duty overseas, but he did help to create training films for the U.S. Army during the war years.
+
+!["Light of the World" wood carving]<a href="{{ site.baseurl }}/img/hieronymus-full-blog.jpg">(img/hieronymus-thumb-blog.jpg "Behold, I Stand at the Door and Knock")</a>
+<p class="caption">"Light of the World" wood carving</p>
+
+!["Light of the World" wood carving](<a href="{{ site.baseurl }}/img/hieronymus-full-blog.jpg">{{ site.baseurl }}/img/hieronymus-thumb-blog.jpg"</a> "Light of the World" wood carving")
+<p class="caption">"Light of the World" wood carving</p>
+
+![James Skelton grave marker]({{ site.baseurl }}/img/skelton-grave.jpg "James Skelton")
+<p class="caption">James Skelton grave marker</p>
+
+On April 18, 1961, members of the Hieronymus family presented Eureka College with the "Light of the World" wood carving. The gift was given in memory of Robert Enoch Hieronymus, Class of 1889, who was a long-time faculty member and served as president of Eureka College from 1900-1909. The "Light of the World" carving is housed in the outer office area of the Humanities Division on the third floor of Burrus Dickinson Hall.
