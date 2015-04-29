@@ -4,13 +4,20 @@ title: April 30
 date:   2015-04-30
 ---
 
-Benjamin Radford Sr. was born on May 1, 1797. In the 1830s he moved from Christian County, Ken., to Walnut Grove (now Eureka), where he was among the founding settlers. He played a role in the establishment of the Christian Church congregation as well as Eureka College. Three of Radford's sons fought in the U.S. Civil War. Two of his boys died on the same day at Kennesaw Mountain. The third son survived: Benjamin Johnson Radford Jr. eventually served as president of Eureka College. He died on April 27, 1933, at age 95. Much of what we know about the early history of Eureka College we know through the eyes, the writings and the memory of B.J. Radford Jr.
+<article class="small-12 large-4 columns clearfix"> ![B.J. Radford Jr.]({{ site.baseurl }}/img/bRadford-young-web.jpg "B.J. Radford Jr.")
+<p class="caption">B.J. Radford Jr.</p></article>
+<p>Benjamin Radford Sr. was born on May 1, 1797. In the 1830s he moved from Christian County, Ken., to Walnut Grove (now Eureka), where he was among the founding settlers. He played a role in the establishment of the Christian Church congregation as well as Eureka College. Three of Radford's sons fought in the U.S. Civil War. Two of his boys died on the same day at Kennesaw Mountain. The third son survived: Benjamin Johnson Radford Jr. eventually served as president of Eureka College. He died on April 27, 1933, at age 95. Much of what we know about the early history of Eureka College we know through the eyes, the writings and the memory of B.J. Radford Jr.</p>
+<hr>
 
 On April 27, 1910, the Delta Delta Pi social sorority was formed at Eureka College. This organization is unique to Eureka College as a local sorority not attached to any national group.
-
+<hr>
 On April 28, 1925, Eureka College President Bert Wilson stated that it was highly unlikely that supervised dances would be allowed at Eureka College within the next generation. Within two years of making that
 statement, Wilson changed his position on the matter and began to allow supervised dances. There are many who believe that the real cause of the famous student strike in the fall of 1928 was associated with displeasure over Wilson's initial opposition to dances rather than with student disapproval of planned curriculum changes. In any event, that strike led to Wilson's forced resignation as president of the college in 1928.
+<hr>
 
 On April 26, 1997, members of the Class of 1997 presented as their class gift the new "Recruiting Elm" and accompanying stone marker.  The objects memorialize the 1861 gathering of faculty and staff under the original "Recruiting Elm" to sign up for service in the Civil War.
+
+![The Recruiting Elm]({{ site.baseurl }}/img/recruiting-elm-web.jpg "The Recruiting Elm")
+<p class="caption">The Recruiting Elm</p>
 
 The Dutch elm disease that first appeared in the United States in the 1920s had claimed most of the stately elms upon campus, including the beloved original "Recruiting Elm" by the early 1960s. Even though the words of the Eureka College Alma Mater describe Eureka as being "neath the elms" the reality is that after 1960 the college had an elm-depleted campus. Thus, the 1997 gift of a new and symbolic "Recruiting Elm" was both an attempt to revive a bit of the college's history and restore a bit of its charm.
