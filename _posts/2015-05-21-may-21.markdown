@@ -1,0 +1,27 @@
+---
+layout: post
+title: The week of May 21
+date:  2015-05-21
+---
+
+On May 19, 1855, the first official meeting of the Eureka College Board of Trustees took place, as the college had received its charter from the State of Illinois in February. An important order of business was
+setting tuition. The Trustees decided on the cost of $30 per year.
+
+<hr>
+
+On May 17, 1907, Ella Campbell Ewing from the Class of 1905 died in the Belgian Congo while serving as a Christian missionary. Her death at such an early age was a shock to the Eureka College community, but it
+served to inspire many of her fellow classmates to dedicate their lives to the field of missionary work. Ella Campbell Ewing's dying words were reported as being, "Tell them to come and take my place."
+
+<hr>
+
+On May 18, 1907, the Eureka College baseball team shut out the University of Illinois 3-0.  
+
+![1907 Eureka College Baseball Team]({{ site.baseurl }}/img/baseball-1907-web.jpg "1907 Eureka College Baseball Team")
+<p class="caption">1907 Eureka College Baseball Team</p>
+
+<hr>
+
+On May 21, 1999, the Illinois State Legislature adopted the resolution establishing the Reagan Trail in Illinois. Much of the effort in making the trail a reality is credited to the late Joe Serangeli, a long-time
+Eureka mayor. The Reagan Trail connects the northern communities of Dixon and Tampico with Eureka and other Illinois towns that had an association with Reagan’s youth in Illinois.
+
+<hr>
