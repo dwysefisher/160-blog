@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The week of May 21
+title: May 21
 date:  2015-05-21
 ---
 
