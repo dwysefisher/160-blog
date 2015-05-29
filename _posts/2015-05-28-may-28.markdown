@@ -1,0 +1,19 @@
+---
+layout: post
+title: May 28
+date:  2015-05-28
+---
+
+On May 29, 1852, a Eureka College founder, Ben Major, died at age 55.  Major had arrived in Walnut Grove in 1833, purchasing 800 acres of farm land southeast of where Eureka College now stands.  He pledged
+$150 in 1849 to establish the Walnut Grove Academy, which was the successor to the Walnut Grove Seminary. That expansion of facilities would eventually grow into Eureka College by 1855.
+
+Eureka College legend recalls that the visionary Major said, “On that rise we will build our college,” while gazing at the spot where the original campus now stands.
+
+<article class="small-12 large-4 columns clearfix">![Ben Major]({{ site.baseurl }}/img/profile-bmajor-web.jpg "Ben Major")
+<p class="caption">Ben Major</p></article>
+
+Among his many other duties in the religious, educational and cultural life of the community of Walnut Grove,  Major served as a folk doctor to those who were ailing from various maladies. In the spring of 1852 an epidemic of Asiatic cholera began in the community. Major did the best he could to assist those who were ill, but in the end, he too fell ill and died.
+
+<hr>
+
+On May 30, 1970, Eureka College held a ceremony to mark the dedication of the Alumni Court residence hall complex.
