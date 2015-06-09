@@ -1,0 +1,23 @@
+---
+layout: post
+title: July 2
+date:   2015-07-02
+desc: This week in EC history &ndash;
+---
+
+In 1861, Captain Otis Asa Burgess delivered the Fourth of July oration in Alton, Illinois. Ever since the 1837 murder of abolitionist editor Elijah Parrish Lovejoy, Alton had been considered sacred ground to those who supported the anti-slavery cause. Lovejoy's martyrdom was an event that had galvanized the abolitionist movement nationwide.
+
+Captain Burgess, along with the sons and grandsons of abolitionists from this community, had a chance to celebrate the nation's independence with the residents of Alton. Burgess would later recall that the opportunity to speak at Alton was the most emotionally-charged moment of his life.
+
+<hr>
+<article class="small-12 large-4 columns clearfix"> ![Mary Gertrude Clark Hawk]({{ site.baseurl }}/img/profile-mCHawk-web.jpg "Mary Gertrude Clark Hawk")
+<p class="caption">Mary Gertrude Clark Hawk</p></article>
+
+In 1882, Robert Mofett Allison Hawk died on this date. Hawk became the first alumnus of Eureka College to be elected to the United States Congress. (Incidentally, his wife, Mary Gertrude Clark Hawk (Class of 1861) was the first woman to graduate from Eureka College.)
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![William Jennings Bryan]({{ site.baseurl }}/img/profile-wJBryan-web.jpg "William Jennings Bryan")
+<p class="caption">William Jennings Bryan</p></article>
+
+In 1909 William Jennings Bryan, a three-time candidate for president of the United States, spoke at Eureka College. It was his second visit to the College - he had first spoken here in 1907.
