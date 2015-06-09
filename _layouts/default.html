@@ -3,6 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    {% if page.desc %}
+     <meta name="description" content="{{ page.desc }}" />
+    {% else %}
+     <meta name="description" content="This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016." />
+    {% endif %}
     <title>{{site.title}}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/css/normalize.css" />
     <link rel="stylesheet" href="{{ site.baseurl }}/css/foundation.min.css" />
