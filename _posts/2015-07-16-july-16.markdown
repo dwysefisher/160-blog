@@ -2,7 +2,7 @@
 layout: post
 title: July 16
 date:   2015-07-16
-desc: This week in EC history &ndash;
+desc: This week in EC history for the week of July 16
 ---
 
 On <strong>July 12, 1923</strong>, the smell of smoke filled the air at Eureka College. The Mission Tabernacle was destroyed by fire.

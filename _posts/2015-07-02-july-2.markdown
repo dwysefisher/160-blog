@@ -2,7 +2,7 @@
 layout: post
 title: July 2
 date:   2015-07-02
-desc: This week in EC history &ndash;
+desc: This week in EC history for the week of July 2
 ---
 
 <article class="small-12 large-4 columns clearfix"> ![Mary Gertrude Clark Hawk]({{ site.baseurl }}/img/profile-mCHawk-web.jpg "Mary Gertrude Clark Hawk")
