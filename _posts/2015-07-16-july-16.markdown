@@ -1,0 +1,30 @@
+---
+layout: post
+title: July 16
+date:   2015-07-16
+desc: This week in EC history &ndash;
+---
+
+On <strong>July 12, 1923</strong>, the smell of smoke filled the air at Eureka College. The Mission Tabernacle was destroyed by fire.
+
+Nathaniel S. Haynes wrote of this structure in his "History of the Disciples of Christ in Illinois 1819&ndash;1914."  He wrote, "In 1884 a commodious audience-room, designed by Professor Radford, was erected on the college campus, called 'The Tabernacle.' It is 80 by 100 feet in dimensions, seating 1,200 people. Its cost was <sup>$</sup>4,000, which was paid by citizens of the community. It stands on gently sloping ground that forms a natural amphitheater. For a period of 12 years the State Missionary Convention assembled there. It has served the college on commencement and other occasions, and the community for various purposes, including in the later years Chautauqua programs."
+
+![The Mission Tabernacle]({{ site.baseurl }}/img/tabernacle-web.jpg "The Mission Tabernacle")
+<p class="caption">The Mission Tabernacle</p>
+
+For many years, this structure was the largest auditorium space in central Illinois and it was used by many groups for a wide variety of events. It was this facility, perhaps more than anything else that made Eureka, Ill., known throughout the region in the late-19<sup>th</sup> and early-20<sup>th</sup> centuries. Famous visitors who spoke in The Mission Tabernacle included Booker T. Washington, William Jennings Bryan, Billy Sunday, Carry A. Nation, Adlai Stevenson Sr., Robert LaFollette and many others.
+
+After the debris from the structure had been cleared, Professor Jacob Rinker envisioned the use of the space as an open-air amphitheater. The land would be developed for this purpose over the next decade. The western portion of the Cerf College Center is also situated upon the space where the Mission Tabernacle once stood.
+
+<hr>
+
+<strong>July 13, 1930</strong>, marked the final day of the last Chautauqua that was ever held at Eureka College. For more than 30 years the college had hosted these summertime festivals that attracted major speakers and great entertainment to the community of Eureka. The events drew visitors to the campus from all parts of central Illinois. At one time there were 800 families that were annual subscribers to the Chautauqua and held season tickets to the events.
+
+![Partial view of Chautauqua tenting grounds]({{ site.baseurl }}/img/chautauqua-web.jpg "Partial view of Chautauqua tenting grounds")
+<p class="caption">Partial view of Chautauqua tenting grounds</p>
+
+By 1930, because of changing mores in American society and the greater freedom afforded by the automobile, there was waning interest in the old-fashioned camp-meeting summer revival nature of the Chautauqua events that were held at the college. Although the end of the series was not officially announced in 1930, there was no event the following year and the series is yet to be revived.
+
+<hr>
+
+On <strong>July 16, 1980</strong>, the Republican Party, meeting at its convention in Detroit, Mich., nominated Ronald W. Reagan (Eureka College Class of 1932) as its candidate for the presidency of the United States. On the following evening, Reagan accepted the nomination.
