@@ -1,0 +1,24 @@
+---
+layout: post
+title: July 23
+date:   2015-07-23
+desc: This week in EC history for the week of July 23
+---
+
+<article class="small-12 large-4 columns clearfix"> ![Abisha Myers]({{ site.baseurl }}/img/profile-amyers-web.jpg "Abisha Myers")
+<p class="caption">Abisha Myers</p></article>
+
+On July 25, 1813, Abisha Myers was born. Abisha and his brother Elias were among the founders of Eureka College, and both served on the Board of Trustees for many years. In addition to being a large landowner in Woodford County, Abisha Myers was also an early businessman in the community.
+
+Myers Tavern was the name of the first hotel and saloon to exist in Walnut Grove (later Eureka). The facility was located on the north end of town near the railroad tracks (where the laundromat is currently located). This business enterprise was related to the history of Eureka College in two rather interesting ways.
+
+First, when construction of Recitation Hall was threatened in 1857 due to the nationwide economic depression called the Panic of 1857, John Darst, Elias Myers and Abisha Myers stepped forward to save the day. All three of these community leaders mortgaged their property to the last dime in order to guarantee that construction could continue on the three-story brick structure that for many years would "be" Eureka College. Yes, Abisha Myers mortgaged his beloved tavern for the greater good that would come to Eureka by having it become a college town. Abisha Myers - visionary, opportunist, wise businessman - likely a combination of all three.
+
+In 1861 the Myers Tavern played another important role in the history of Eureka College. It was at that site that the actual recruiting took place when Company G of the 17th Illinois Infantry formed. We do all speak fondly of the Recruiting Elm events that took place on campus in April 1861 after the shots were fired at Fort Sumter. A spontaneous patriotic event did take place on campus ‘neath that elm, but the real job of forming a company took place about two weeks later when volunteers met and signed up for service at the Myers Tavern.
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![Asa Starbuck Fisher]({{ site.baseurl }}/img/profile-aFisher-web.jpg "Asa Starbuck Fisher")
+<p class="caption">Asa Starbuck Fisher</p></article>
+
+On July 25, 1849, Asa Starbuck Fisher and Susan Palmer were married. Fisher was the first professor at the Walnut Grove Seminary, and he had just completed his first year of teaching at that early institution when he married Ms. Palmer. The Fishers eventually had one child, Laura E. Fisher, Eureka College Class of 1868.
