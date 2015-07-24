@@ -1,0 +1,26 @@
+---
+layout: post
+title: July 30
+date:   2015-07-30
+desc: This week in EC history for the week of July 30
+---
+
+On July 28, 1862, one of Eureka College’s founders, Elijah Dickinson, died.
+
+<article class="small-12 large-4 columns clearfix"> ![Elijah Dickinson]({{ site.baseurl }}/img/profile-edickinson-web.jpg "Elijah Dickinson")
+<p class="caption">Elijah Dickinson</p></article>
+
+After Ben Major's death in 1852, Elijah Dickinson took leadership of the Board of Trustees that administered the Walnut Grove Academy. It was under Dickinson's leadership that efforts were conducted that resulted in the chartering of Eureka College in 1855.
+
+Elijah W. Dickinson, Class of 1860, was the first graduate of Eureka College and was a son of Elijah Dickinson. The senior Dickinson, a veteran of the War of 1812, led the special farewell services that were conducted at the old Meeting House when the boys of Company G of the 17th Illinois Infantry went off to join the Civil War. Two of his sons, Roger and Charles, were members of that group and Elijah W. would later serve in another company.
+
+<hr>
+
+On July 28, 1887, Emory Ross, Class of 1907, was born. Ross and his wife, Myrta Pearson Ross, Class of 1913, spent most of their lives serving as Christian missionaries in the Belgian Congo. Together, the couple wrote several books about their experiences in Africa and the path that African peoples were taking toward independence in the era of decolonization. During their work in Africa, Emory and Myrta Pearson Ross became acquainted with the work of Dr. Albert Schweitzer, and they hosted him on his first trip to the United States in 1949.
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![Durward Sandifer]({{ site.baseurl }}/img/profile-dSandifer-web.jpg "Durward Sandifer")
+<p class="caption">Durward Sandifer</p></article>
+
+On July 26, 1900, Durward Vladimir Sandifer, Class of 1924, was born. Sandifer taught at Eureka College for a few years following his graduation, but he is best remembered for his service as a career diplomat in the U.S. State Department. In the years following WW II, Sandifer was the assistant to Eleanor Roosevelt who was serving as the U.S. delegate to the newly established United Nations. It was Sandifer who wrote the draft document of what eventually became the United Nations' Universal Declaration of Human Rights. That document, after much debate and revision, was adopted unanimously by the member states of the United Nations on Dec. 10, 1948. Called by some a "mission statement for the world," the Universal Declaration of Human Rights is among the most important documents of the 20th century.
