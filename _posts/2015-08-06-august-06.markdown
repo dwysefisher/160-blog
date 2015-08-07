@@ -1,0 +1,22 @@
+---
+layout: post
+title: August 6
+date:   2015-08-06
+desc: This week in EC history for the week of August 6
+---
+
+On Aug. 6 1879, the Eureka College Board of Trustees announced a new marketing strategy aimed at attaining the goal of increasing enrollment at the college. The board announced that for the 1879&ndash;1880 school year, students could attend Eureka College and live rent-free in the newly constructed campus boarding hall, Gentleman's Hall No. 2. This invitation was extended to men and women, but they did not share the same boarding facilities.
+
+![Gentleman's Hall No. 2]({{ site.baseurl }}/img/gentlemans-hall-web.jpg "Gentleman's Hall No. 2")
+<p class="caption">Gentleman's Hall No. 2</p>
+
+This new facility, which was constructed directly east of the old Walnut Grove Academy building (located to the rear of the current Rinker Amphitheater) was built with the hope that "if you build it they will come." The state-of-the-art facility included all of the 1879-era amenities that a student might want (i.e. wooden floors, kerosene lamps, etc.) Today, only shards of pottery and an occasional piece of the brick foundation are the only bits of evidence that remain from this early residence hall.
+
+<article class="small-12 large-4 columns clearfix"> ![John Darst]({{ site.baseurl }}/img/profile-jdarst-web.jpg "John Darst")
+<p class="caption">John Darst</p></article>
+
+John Darst died on Aug. 6, 1895. Darst moved his family to Walnut Grove/Eureka in 1851 and quickly became involved in the life of the village and the educational institution that had been founded here shortly before his arrival.
+
+Darst became one of the greatest "boosters" of both the town of Eureka and of Eureka College for the remainder of his life. He served for 40 years on the Board of Trustees, and he chaired that body from 1873-1895. He was one of the strongest financial supporters of the institution.
+
+Darst was a member of the Christian Church and he was an abolitionist. During the Civil War, five of his sons served in the Union Army.
