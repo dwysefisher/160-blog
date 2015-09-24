@@ -1,0 +1,62 @@
+---
+layout: post
+title: September 21
+date:   2015-09-21
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+In 1869, classes were held for the first time in The Chapel, the second academic building to be constructed on the Eureka College campus.
+
+![The Chapel]({{ site.baseurl }}/img/chapel-1870s-web.jpg "The Chapel")
+<p class="caption">The Chapel</p>
+
+In the fourteen years since the College had been founded back in 1855, classes were held in the old Academy Building [sometimes called "Darst's Hall] and Recitation Hall [the current administration building]. This situation worked well for the College, especially as enrollments declined during the Civil War years. When students began to return to the campus after the Civil War ended, it was determined that a new academic building was needed to serve the expanded enrollment.
+
+The Chapel provided a huge lecture room that could seat 400 and the bottom floor consisted of three large seminar rooms - later named the Alice Ropp Memorial Rooms that were used for classes as well as meetings of the school's several literary societies.
+
+![What is now McAllister Hall in The Chapel]({{ site.baseurl }}/img/chapel-stage-web.jpg "What is now McAllister Hall in The Chapel")
+<p class="caption">What is now McAllister Hall in The Chapel</p>
+
+<hr>
+
+The Delta Delta Pi sorority was organized at Eureka College on this date in 1910. This was the first sorority to form on the campus. It was formed as (and remains) a local sorority that is not associated with any existing Greek organizations in the country.
+
+<hr>
+
+In 1928, a young man by the name of Ronald Wilson Reagan started his first day of classes as a student at Eureka College on this date. "Dutch," as he was known to his fellow classmates, had come to Eureka by way of Dixon, Illinois. His primary interest in coming to Eureka was to follow the educational career of Margaret "Mugs" Cleaver, the minister's daughter who was his high school sweetheart, who had decided to attend Eureka College. "Dutch" was also attracted to Eureka College by the opportunities to play football, run track, and compete in swimming at the college level.
+
+<hr>
+
+On September 21, 1916, On this date in 1916, Eureka College held groundbreaking ceremonies to initiate the construction of Vennum Science Hall on the northwestern corner of the campus. The building was completed by the spring semester of the 1917-18 school year.
+
+![Vennum Science Hall, c. 1920]({{ site.baseurl }}/img/vennum_ca1920-web.jpg "Vennum Science Hall, c. 1920")
+<p class="caption">Vennum Science Hall, c. 1920</p>
+
+The following description of Vennum-Binkley Science Hall [the current name of the facility] is taken from a draft copy of "The Architecture of Eureka College" - an informative brochure that [hopefully] will be published in the not-too-distant future:
+
+<article class="small-12 large-4 columns clearfix"> ![Frank B. Vennum ]({{ site.baseurl }}/img/profile-fVennum-web.jpg "Frank B. Vennum")
+<p class="caption">Frank B. Vennum</p></article>
+
+"In 1916, Frank B. and Sadie Vennum of Champaign, IL, noted "Friends of Christian Education," pledged $30,000 to Eureka College to fund the construction of a new science hall. The bequest permitted the construction of what was then one of the finest state-of-the-art science facilities in central Illinois.
+
+The mere fact that the phrases "Vennum Science Hall" and "Friends of Christian Education" coexist respectively on the northern and eastern facades of this building is noteworthy, but the context of this in the midst of the Progressive Era's intellectual climate is especially telling. At a time when many believed that science and religion were mutually exclusive, the architectural language of this building suggested otherwise.
+
+If it is true that in architecture form follows function, it might be said that this building was constructed as a shrine to science replete with the necessary structural accouterments. The northern and eastern entrances to the building are housed within small quoin-accented Georgian vestibules that extend outward from the main body of the building. Within these structures, the doorways are positioned within Gothic pointed arches--devices, like vestibules, that are most often associated with buildings constructed for spiritual purposes. On the eastern, northern, and western sides of the building one finds tablet shaped capitals which adorn faux brick columns. These capitals (four per side with a total of twelve) may well have religious symbolism as well. Structures of the same period often used these devices to represent the four gospels and/or the twelve apostles."
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![Morris Dees]({{ site.baseurl }}/img/profile-mDees-web.jpg "Morris Dees")
+<p class="caption">Morris Dees</p></article>
+
+On September 22, 1999, Morris Dees, the Executive Director of the Southern Poverty Law Center spoke at Eureka College as part of the Arts and Lecture Series. Through the efforts of the SPLC which is headquartered in Montgomery, Alabama, Dees and a team of civil rights attorneys have worked for nearly thirty years to fight hate groups like the Ku Klux Klan, Skinheads, and the White Aryan Nation.
+
+The event was held in the Reagan Center before a packed house of 900. The event had a much larger international audience as it was taped for later broadcast to the world by C-SPAN. The pertinence of Dees' remarks was also noted when a transcription of his address was published in the February 2000 issue of Vital Speeches of the Day.
+
+Security for the event was heavy because of the recent Fourth of July 1999 shooting spree in the Midwest in which Benjamin Nathaniel Smith, an associate of Matt Hale's World Church of the Creator [an East Peoria-based organization], had targeted his victims on the basis of their race and ethnicity.
+
+Responding to a question about why he was presenting an address at Eureka College, Dees commented, "&hellip;this isn't an economic issue&mdash;let me tell you, justice in not a political issue, justice is not an issue of Republican, conservative, or liberal&mdash;deep in the hearts of people throughout time eternity, justice has been the goal."
+
+<hr>
+
+On September 23, 1910, Caroline Neville Pearre died. In 1874 Ms. Neville [later Pearre] along with two other Eureka women&ndash;Elmira Jane Dickinson and Nancy J. Ledgerwood Burgess founded the Christian Women's Board of Missions. This agency quickly became the most significant missionary organization within the Christian Church (Disciples of Christ).
+
+Caroline Neville Pearre was the daughter of Professor John H. Neville, one of the early teachers at Walnut Grove Academy and Eureka College.

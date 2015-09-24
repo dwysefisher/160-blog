@@ -1,0 +1,31 @@
+---
+layout: post
+title: September 3
+date:   2015-09-03
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+
+<article class="small-12 large-4 columns clearfix"> ![Jacob Rinker]({{ site.baseurl }}/img/profile-jRinker-web.jpg "Jacob Rinker")
+<p class="caption">Jacob Rinker</p></article>
+
+On September 6, 1887, Jacob A. Rinker was born. From Table Grove, Ricker graduated from Eureka College in 1918. He taught at the college from 1919 until his retirement in 1957. Few individuals have had as lasting an impact upon the campus as Rinker did.
+
+Shortly after he began teaching at the college, Rinker began construction of a rustic pioneer bungalow just south of Vennum Science Hall. He built this home in the early 1920s using local timber and stone and did all of the construction on his own. Rinker obtained the huge logs that were needed from the Mackinaw River bottomland six miles east of Eureka, and these were dragged to town by mule for use in constructing the home. Today Eureka College owns the property.
+
+![Rinker House]({{ site.baseurl }}/img/RinkerHouse_1930s.jpg "Rinker House")
+<p class="caption">Rinker House c. 1930</p>
+
+Rinker also envisioned the site of what is today called the Rinker Amphitheater and began work on the terracing of the landscape in 1926. During the next few years, graduating classes donated funds to purchase the trees and shrubs that surround the theater. Rows of Lombardy poplars, Japanese barberry, and Tartarian honeysuckle were planted to surround the eight terraces designed to seat 5,000. Rinker developed the amphitheater for <sup>$</sup>650. The site is used for Opening Convocation as well as for the presentation of plays and pageants.
+
+Jacob Rinker died in 1974. In 1977, Eureka College dedicated the Rinker Conference Room in Vennum Science Hall in memory of his many contributions to the life of the college.
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![Stephen Binkley]({{ site.baseurl }}/img/profile-sBinkley-web.jpg "Stephen Binkley")
+<p class="caption">Stephen Binkley</p></article>
+
+On September 1, 1987, Emeritus Professor of Chemistry Stephen B. Binkley died. He was a summa cum laude graduate of Eureka College, Class of '34. He earned a master's degree and doctorate, both from the University of Nebraska. He married fellow EC alumnus Lois Grosse, Class of '34, in 1934. Binkley was a noted chemist who spent his career engaged in both research and teaching through his work both in private industry and in higher education. He was a research chemist for Parke Davis &amp; Co. and later the director of chemical research for Bristol Laboratories. He taught at the St. Louis University College of Medicine and at the University of Illinois College of Medicine.
+
+As a research chemist, Binkley was part of the team that discovered Vitamin K and Folic acid. Edward A. Doisy, who headed the research team, was awarded the Nobel Prize for Physiology or Medicine in 1943 for his work in the discovery of Vitamin K.
+
+Binkley served Eureka College as a trustee for several terms, included as chairman from 1964&ndash;69. He joined the EC faculty in 1972 and taught until 1986.

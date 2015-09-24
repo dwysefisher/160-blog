@@ -1,0 +1,38 @@
+---
+layout: post
+title: September 17
+date:   2015-09-17
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+
+On Sept. 16, 1941, actor Ronald Reagan visited his alma mater. This was not the first time that Reagan had returned to the campus since graduating in 1932, but it was the first time that he had returned after becoming a motion pictures actor for Warner Brothers. With "Dutch" being back on campus, it wasn’t just another Tuesday in Eureka, it was something special.
+
+The one-day visit was busy. Reagan visited Lida's Wood where he had washed dishes as a college student, and just for old time’s sake, he washed a few more as the cameras flashed. He visited his fraternity brothers at the Tau Kappa Epsilon house on Burton Street, the place where he had lived for three of the four years he spent in Eureka. He paid a visit to the newly constructed Eureka Christian Church and signed the guest book there. The older church had burned in March 1932 just a few months before the Class of 1932 was to have their baccalaureate services there. In the afternoon, Reagan visited McKinzie Field where he posed for pictures with members of the football team.
+
+<hr>
+
+On Sept. 17, 1950, the Jones Hall bombing took place. Yes, that’s right, a bombing in Eureka. Construction of the Eureka College residence hall began in 1949, and was proceeding according to schedule when an unexpected event occurred at about 9 p.m. on that Sunday when a bomb exploded. Within seconds, much of the southern and western walls of the building had been severely damaged by the blast.
+
+No one was injured, but 90 windows on the campus were damaged in addition to others in the surrounding community. The sound of the blast was supposedly heard 18 miles away in Peoria.
+
+Police investigating the scene determined that the blast had been caused by a small nitroglycerine bomb that was likely placed in the basement of the building that was still under construction. It seems the construction workers who were building the residence hall were non-union laborers. Speculation at the time was that union laborers, or individuals sympathetic to the union cause, were responsible for the explosion. No one was ever charged with the offense. Completion of Jones Hall was delayed by as much as 18 months due to the damage and insurance investigations and the renegotiation of contracts. By June 1952 the building was finally completed and dedicated.
+
+![Jones Hall]({{ site.baseurl }}/img/jones-hall-web.jpg "Jones Hall")
+<p class="caption">Jones Hall</p>
+
+Jones Hall is named in honor of Silas Jones, Class of 1892, and Mary Hoover Jones, Class of 1919. In addition to being alumni of the college, both were members of the faculty. Silas Jones taught religion and philosophy (1900-38), and Mary Hoover Jones taught French and English (1920-38).
+
+<hr>
+
+"The Bookworm" took place on Sept. 15, 1967. What, might you ask, was "The Bookworm" –well it was a significant event in Eureka College’s history and folklore.
+
+![The Bookworm]({{ site.baseurl }}/img/melick-bookworm-web.jpg "The Bookworm")
+<p class="caption">The Bookworm</p>
+
+The campus was preparing for the dedication of Melick Library that was set for late September 1967. The building had been completed, but the task remained of relocating 50,000 volumes from the library in Burgess Memorial Hall to the newly constructed Melick Library.
+Volunteers worked throughout the day that Friday forming a human "Congo line" to complete the transfer. Students, faculty, staff and administration made sure to keep the books moving through the line and remaining in order for their re-shelving in Melick Library.
+
+![The Bookworm]({{ site.baseurl }}/img/melick-bookworm2-web.jpg "The Bookworm")
+<p class="caption">The Bookworm</p>
+
+When it began to rain, volunteers opened umbrellas to keep the books protected as they made their way to the new building. Participants were entertained by disc jockey Ted Innes, Class of '70, who provided music and words of encouragement to the volunteers.
