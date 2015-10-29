@@ -6,7 +6,7 @@ desc: This Week in Eureka College History commemorates the 160th anniversary of 
 ---
 In 1869, classes were held for the first time in The Chapel, the second academic building to be constructed on the Eureka College campus.
 
-![The Chapel]({{ site.baseurl }}/img/chapel-1870s-web.jpg "The Chapel")
+![The Chapel]({{ site.baseurl }}/img/Chapel-1870s.jpg "The Chapel")
 <p class="caption">The Chapel</p>
 
 In the fourteen years since the College had been founded back in 1855, classes were held in the old Academy Building [sometimes called "Darst's Hall] and Recitation Hall [the current administration building]. This situation worked well for the College, especially as enrollments declined during the Civil War years. When students began to return to the campus after the Civil War ended, it was determined that a new academic building was needed to serve the expanded enrollment.
