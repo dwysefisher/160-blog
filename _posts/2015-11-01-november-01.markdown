@@ -1,0 +1,60 @@
+---
+layout: post
+title: November 1
+date:   2015-11-01
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+On <strong>November 2, 1930</strong>, the Eureka College community mourned the loss of a notable alumnus, Oliver P. Hay (Class of 1870). Hay had become one of the most renown paleontologists in the United States and was considered to be the world's leading authority on animals of the Pleistocene geological period.
+
+![Oliver P. Hay]({{ site.baseurl }}/img/profile-opHay-web.jpg "Oliver P. Hay")
+<p class="caption">Oliver P. Hay</p>
+
+During his career as an educator, Hay taught at several schools including Eureka College, Oskaloosa College, Abingdon College, and Butler University. Later in his career, Hay was associated with the Field Museum in Chicago (1895-1905), the Smithsonian Museum of Natural History (1905-11), and the Carnegie Institution in Washington, D.C. (1911-30). He was the author of Bibliography and Catalogue of Fossil Vertebrates of North America.
+
+<hr>
+<article class="small-12 large-4 columns clearfix"> ![Emma Smith DeVoe]({{ site.baseurl }}/img/profile-esDevoe-web.jpg "Emma Smith DeVoe")
+<p class="caption">Emma Smith DeVoe</p></article>
+
+On <strong>November 3, 1896</strong>, women in the state of Idaho earned the right to vote upon approval of a popular referendum to decide the issue. Emma Smith DeVoe was actively involved in leading the campaign for women's suffrage in Idaho. She would later lead a similar campaign in Washington state in 1910.
+
+DeVoe, a former member of the music faculty at Eureka College, was recently inducted into the National Women's Hall of Fame in Seneca Falls, New York.
+
+<hr>
+
+On <strong>November 3, 1979</strong>, ceremonies were held marking the dedication of the newly renovated Chemistry Lab in Vennum Science Hall. The financial support for this project had been provided through a generous grant from Caterpillar. Professor Stephen Binkley served as the consultant who designed the new laboratory and oversaw its construction.
+
+![Chemistry Lab in Vennum Science Hall]({{ site.baseurl }}/img/vb-chem-lab-1920s-web.jpg "Chemistry Lab in Vennum Science Hall")
+<p class="caption">Chemistry Lab in Vennum Science Hall</p>
+
+These renovations were the first to have occurred in the sixty years that Vennum Science Hall had been in use. Improvements in the Chemistry Lab were viewed as vital in the College's efforts to recruit more students with an interest in the sciences.
+
+<hr>
+
+<strong>November 4, 1994</strong>, marked the first First Sunday Brunch was held in the Cerf College Center. This monthly event has since become a new tradition at the College and has developed a wide following. The FSB tradition was reviewed by the Peoria Journal Star in the October 8, 1998 edition in a review essay titled "Eureka College Hosts 'Magnificent' Bunch: Nothing Like What You Will Remember from College Days.
+
+<hr>
+
+On <strong>November 5, 1926</strong>, ceremonies were held to dedicate the new pavement on Eureka College streets. College Avenue and Burgess Street had recently become hard-surfaced, and the campus community felt that it was an occasion that should be celebrated. It was believed that the transition from dirt and gravel roads to the grand luxury of pavement represented a defining moment in the life of the College.
+
+<hr>
+
+Ronald Wilson Reagan (Class of 1932) was elected to the presidency of the United States on this <strong>November 4, 1980</strong> when he defeated incumbent president Jimmy Carter. Reagan defeated Carter by a margin of more than 8.5 million votes garnering 51% of the popular vote to Carter's 41% - John Anderson gained 7% running as an independent. In the Electoral College, Reagan amassed a lopsided victory gaining 489 votes to Carter's 49.
+
+<div class="flex-video">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/PsDe-8cOSYY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+The flag that flew atop the Capitol Building in Washington, D.C. on election day 1980 is now housed on permanent display in the Reagan Exhibit located in the Cerf College Center on the Eureka College campus. The Reagan Exhibit includes nearly 1500 artifacts that trace the life and professional career of President Reagan.
+
+He was also reelected president of the United States on <strong>November 6, 1984</strong>, when he defeated former vice president Walter Mondale. Reagan won in a landslide victory amassing more than 16 million votes over his opponent's total. Reagan won the largest electoral landslide in history, defeating Mondale 525-13.
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![John Darst]({{ site.baseurl }}/img/profile-jdarst-web.jpg "John Darst")
+<p class="caption">John Darst</p></article>
+
+John Darst was born in Ohio on this <strong>November 6, 1816</strong>. Darst moved his family to Walnut Grove/Eureka in 1851 and quickly became involved in the life of the village and the educational institution that had been founded here shortly before his arrival.
+
+Darst became one of the greatest "boosters" of both the town of Eureka and of Eureka College for the remainder of his life. He served for forty years on the Board of Trustees, and he chaired that body from 1873-95. He was always one of the strongest financial supporters of the institution.
+
+Darst was a member of the Christian Church and he was an abolitionist. During the Civil War, five of his sons served in the Union Army.
