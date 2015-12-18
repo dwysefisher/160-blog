@@ -1,0 +1,36 @@
+---
+layout: post
+title: December 20
+date:   2015-12-20
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+It was on <strong>December 20, 1917</strong>, that ceremonies were held at Eureka College to dedicate the newest building on the campus: Vennum Science Hall. The first classes were held in the new building during the Spring Semester of 1918.
+
+The name of the building derives from Mr. and Mrs. F.B. Vennum, whose gift of $30,000 set plans into motion for the construction. Each of the four floors housed laboratories, classrooms and offices of science. Manual training and physics were located on the basement floor, chemistry on the first, biology and geology on the second, and household sciences on the top floor. 
+
+![Vennum Science Hall]({{ site.baseurl }}/img/vennum-binkley-hall-c1920-web.jpg "Vennum Science Hall")
+<p class="caption">Vennum Science Hall c. 1920</p>
+
+<article class="small-12 large-4 columns clearfix"> ![Elijah W. Dickinson]({{ site.baseurl }}/img/profile-edickinson-web.jpg "Elijah W. Dickinson")
+<p class="caption">Elijah W. Dickinson</p></article>
+
+Elijah William Dickinson died on this date in <strong>1920</strong>. As the only graduate of the Class of 1860, Dickinson was the first alumnus of Eureka College. Dickinson had lived in Eureka for his entire life. He was known locally as a teacher, a family historian, and a religious leader in the community.
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![B.J. Radford, Jr.]({{ site.baseurl }}/img/profile-bRadford1875-web.jpg "B.J. Radford, Jr.")
+<p class="caption">B.J. Radford, Jr.</p></article>
+
+Benjamin Johnson Radford, Jr. (Class of 1866) was born on <strong>December 23, 1838</strong>. He served in Company G of the 17th Illinois Infantry. Radford taught at Eureka College and for a time served as President of the College (1876&ndash;77). For many years he was the editor of the <em>Woodford County Journal</em>. Radford was certainly the most prolific local historian and author to chronicle the story of Eureka College and its surrounding community.
+
+![Myrta Pearson Ross]({{ site.baseurl }}/img/mRoss-gravestone-web.jpg "Myrta Pearson Ross")
+<p class="caption">Myrta Pearson Ross</p>
+Myrta Pearson Ross (Class of 1913) died on this date in <strong>1985</strong>. She and her husband Emory Ross were missionaries who served much of their careers in the Belgian Congo.
+
+<hr>
+
+The <a href="http://www.loc.gov/exhibits/african/afam002.html">American Colonization Society</a> formed on <strong>December 28, 1816</strong>. The ACS was instrumental in establishing a settlement in Liberia where former slaves could be repatriated to Africa. During its years, several thousand ex-slaves were transported to Liberia by the ACS.
+
+Ben Major was a member of the American Colonization Society. Shortly before he moved to the community of Walnut Grove, Illinois, he freed his slaves and provided funding for their repatriation to Africa. In subsequent years, the Major family received letters from the former slaves describing the conditions of life in Liberia.
+
+In <strong>1852</strong>, the Founders created "The Board of Education of the Christian Missionary Society in Illinois." The purpose of the organization was to raise revenues to support Walnut Grove Academy.
