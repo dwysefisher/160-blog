@@ -1,0 +1,29 @@
+---
+layout: post
+title: November 29
+date:   2015-11-29
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+On <strong>November 29, 1988</strong>, Eureka College hosted the year's Humbert Lecture which was presented by Dr. Cornel West of Princeton University. Dr. West, Professor of Religion and Director of Princeton's Afro-American Studies Program, is widely recognized today as one of the leading African American intellectuals in the nation. He is the author of the widely-acclaimed <em>Race Matters</em> (1994) and he recently collaborated with Harvard Professor Henry Louis Gates, Jr. to produce <em>The African-American Century: How Black Americans Have Shaped our Country</em> (2000).
+
+<hr>
+
+On <strong>December 4, 1925</strong>, the Women's Athletic Association (WAA) was formed at Eureka College. Although intercollegiate women's athletic teams did not yet exist, the creation of the WAA represents the growing recognition of college women as students athletes.
+
+![Women's Athletic Association (WAA)]({{ site.baseurl }}/img/womens-athletic-association-1925-web.jpg "Women's Athletic Association (WAA)")
+<p class="caption">Women's Athletic Association (WAA)</p>
+<br />
+
+<article class="small-12 large-4 columns clearfix"> ![Tau Kappa Epsilon (TKE)]({{ site.baseurl }}/img/1930-TKEs.jpg "Tau Kappa Epsilon (TKE)")
+<p class="caption">Tau Kappa Epsilon (TKE)</p></article>
+
+On the same date in 1970, the Eureka College chapter of Tau Kappa Epsilon (TKE) sold their old fraternity house on Burton Street after having completed construction of a new house adjacent to the campus. The original house on Burton Street had initially been constructed in the 1910s by Roy L. Moore (Class of 1905) who eventually became the Superintendent of Schools for Eureka and later wrote the <em>History of Woodford County</em> (1910).
+
+<hr>
+
+<article class="small-12 large-4 columns clearfix"> ![Mary Frances Winston Newson]({{ site.baseurl }}/img/profile-mfwNewson-web.jpg "Mary Frances Winston Newson")
+<p class="caption">Mary Frances Winston Newson</p></article>
+
+On <strong>December 5, 1959</strong>, the Eureka College community was saddened to learn of the death of Emeritus Professor Mary Frances Winston Newson. Professor Newson had taught mathematics at Eureka College for many years. She was a remarkable individual. Professor Newson was the first woman in the United States to earn a Ph.D. in Mathematics from a German university.
+
+Although she was a mathematician by training, Professor Newson exhibited great interest in the liberal arts notion of interdisciplinary studies. She had a special interest in international affairs. For the past twenty-five years the Social Science and Business Division has annually sponsored the Newson Lecture Series on International Affairs. This lecture series is endowed regularly by those who wish to honor Professor Newson's many contributions to Eureka College and memorialize her appreciation of cross-cultural, interdisciplinary learning, a historic trademark of the Eureka College educational experience.
