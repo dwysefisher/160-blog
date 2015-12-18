@@ -1,0 +1,76 @@
+---
+layout: post
+title: December 13
+date:   2015-12-13
+desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
+---
+
+On <strong>December 13, 1991</strong>, students at Eureka College held a referendum to determine whether or not they wished to double their student activity fees. The measure passed, and as a result, student activity fees were increased to $75/semester [or $150/year].
+
+The purpose of this initiative was to create an Arts and Lecture Series that would permit Eureka College to attract major speakers and artists to campus for cultural events. It was estimated that the increase in student activity fees would generate approximately $35,000 per year, thereby allowing four events per year to be scheduled.
+
+The Arts and Lecture Series was instituted the following year with the first event being scheduled in September 1992.
+
+<hr>
+
+On <strong>December 14, 1920</strong>, the University of Notre Dame mourned the death of a student athlete named George Gipp. Though this tragic event had special significance in South Bend, Indiana, it had no real impact (or association) with Eureka College at the time.
+
+<blockquote><h2>&ldquo;Someday when things are tough, maybe you can ask the boys to go in there and win just once for the Gipper.&rdquo;</h2></blockquote>
+
+Twenty years later, Warner Brothers produced the film <em>Knute Rockne, All American</em> (1940) which chronicled the life and career of the legendary Notre Dame coach. One of the stars in this movie was Ronald W. Reagan who portrayed George Gipp. In the film Gipp [Reagan], lying terminally ill in the hospital asks Coach Rockne [played by Pat O'Brien] the famous line, "Someday when things are tough, maybe you can ask the boys to go in there and win just once for the Gipper."
+
+From this point onward, Ronald Reagan's connection with "the Gipper" was immortalized by the Hollywood magic of sound, light, and celluloid. In a strange way lessons from history and popular culture often merge and art becomes perceived as reality. Today, sixty years after <em>Knute Rockne, All American</em> first appeared, some tourists who visit Eureka College are still somewhat confused as to what took place here and what took place at Notre Dame. Yes, questions do persist&mdash;<em>Did George Gipp play ball at Eureka? Did Ronald Reagan play ball at Notre Dame?</em> or our personal favorite: <em>What's a Gipper</em>?
+
+<hr>
+
+Roger Burrus Dickinson was born on <strong>December 18, 1840</strong>. He was the tenth child (a twin) born within the household of Elijah Dickinson (1795&ndash;1862) and Mary Ann Burrus Dickinson (1800&ndash;1868).
+
+The elder Elijah Dickinson was a Founder of Eureka College. His son, Elijah W. Dickinson, became the first graduate of Eureka College in 1860.
+
+When the Civil War began both Roger Burrus Dickinson and his twin brother Charles Richard Dickinson were enrolled as students at Eureka College. Both of the young men took part at the gathering &rsquo;neath the "Recruiting Elm" and both eventually joined Company G of the 17th Illinois Infantry and served under Captain Burgess.
+
+After returning to Eureka once the war ended, Roger B. Dickinson became active as a political and civic leader in the community of Eureka, Illinois. In 1899 he established the Dickinson Canning Factory on the north side of town. Two decades later, the factory was bought out by the Libby Corporation. It was because of these industrial attributes that the community of Eureka, Illinois, became known throughout most of the twentieth century as the Pumpkin Capital of the World.
+
+![The Dickinson Canning Factory]({{ site.baseurl }}/img/dickinson-canning-factory.jpg "The Dickinson Canning Factory")
+<p class="caption">The Dickinson Canning Factory</p>
+
+Also on this date in <strong>1865</strong> the Thirteenth Amendment to the U.S. Constitution was finally adopted by three-fourths of the states and became the law of the land. This was the amendment that officially ended the practice of slavery and involuntary servitude in the United States. For those abolitionists in the Eureka community, the optimism that had been noted with Lincoln's promulgation of the Emancipation Proclamation in 1863 was made more effectual and legally-binding with the passage of the Thirteenth Amendment.
+
+<article class="small-12 large-4 columns clearfix"> ![R.E. Hieronymus]({{ site.baseurl }}/img/profile-reHieronymus-web.jpg "R.E. Hieronymus")
+<p class="caption">R.E. Hieronymus</p></article>
+
+Robert Enoch Hieronymus (Class of 1889) died on this date in <strong>1941</strong>. Hieronymus taught at Eureka College for many years and he served as president of the institution from 1900&dash;09. The house that is located at 711 Burgess Street, currently the President's Home, was built in the mid&ndash;1890s as the Hieronymus family residence.
+
+<hr>
+
+<p>In the spirit of the holidays, here's a Christmas hymn written by Abner Peter Cobb (Class of 1878).</p>
+
+<em>[Do You Know The Song That The Angels Sang]({{ site.baseurl }}/img/do-you-know-the-song-web.jpg "Do You Know The Song That The Angels Sang")</em><br/>
+
+Do you know the song that the angels sang<br />
+On that night in the long ago,<br />
+When the heavens above with their music rang<br />
+Till it echoed in the earth below?<br />
+
+<em>Refrain</em><br />
+All glory in the highest,<br />
+Peace on earth, goodwill to men,<br />
+Glory in the highest,<br />
+Peace, goodwill to men;<br />
+Glory in the highest,<br />
+Glory in the highest,<br />
+Peace on earth, goodwill to men.
+
+Do you know the song that the shepherds heard<br />
+As they watched o=er their flocks by night,<br />
+When the skies bent down, and their hearts were stirred <br />
+By the voices of the angels bright?<br />
+
+<em>Refrain</em>
+
+Do you know the story that the wise men learned<br />
+As they journeyed from the east afar,<br />
+O'er a pathway plain, for there nightly burned<br />
+In their sight a glorious guiding star?
+
+<em>Refrain</em>
