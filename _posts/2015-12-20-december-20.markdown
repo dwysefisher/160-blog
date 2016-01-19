@@ -1,12 +1,12 @@
 ---
 layout: post
-title: December 20
+title: December 20&ndash;Jan. 3
 date:   2015-12-20
 desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
 ---
 It was on <strong>December 20, 1917</strong>, that ceremonies were held at Eureka College to dedicate the newest building on the campus: Vennum Science Hall. The first classes were held in the new building during the Spring Semester of 1918.
 
-The name of the building derives from Mr. and Mrs. F.B. Vennum, whose gift of $30,000 set plans into motion for the construction. Each of the four floors housed laboratories, classrooms and offices of science. Manual training and physics were located on the basement floor, chemistry on the first, biology and geology on the second, and household sciences on the top floor. 
+The name of the building derives from Mr. and Mrs. F.B. Vennum, whose gift of $30,000 set plans into motion for the construction. Each of the four floors housed laboratories, classrooms and offices of science. Manual training and physics were located on the basement floor, chemistry on the first, biology and geology on the second, and household sciences on the top floor.
 
 ![Vennum Science Hall]({{ site.baseurl }}/img/vennum-binkley-hall-c1920-web.jpg "Vennum Science Hall")
 <p class="caption">Vennum Science Hall c. 1920</p>
@@ -18,7 +18,7 @@ Elijah William Dickinson died on this date in <strong>1920</strong>. As the only
 
 <hr>
 
-<article class="small-12 large-4 columns clearfix"> ![B.J. Radford, Jr.]({{ site.baseurl }}/img/profile-bRadford1875-web.jpg "B.J. Radford, Jr.")
+<article class="small-12 large-4 columns clearfix"> ![B.J. Radford, Jr.]({{ site.baseurl }}/img/profile-bradford1875-web.jpg "B.J. Radford, Jr.")
 <p class="caption">B.J. Radford, Jr.</p></article>
 
 Benjamin Johnson Radford, Jr. (Class of 1866) was born on <strong>December 23, 1838</strong>. He served in Company G of the 17th Illinois Infantry. Radford taught at Eureka College and for a time served as President of the College (1876&ndash;77). For many years he was the editor of the <em>Woodford County Journal</em>. Radford was certainly the most prolific local historian and author to chronicle the story of Eureka College and its surrounding community.
