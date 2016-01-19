@@ -1,6 +1,6 @@
 ---
 layout: post
-title: December 6
+title: December 6&ndash;12
 date:   2015-12-06
 desc: This Week in Eureka College History commemorates the 160th anniversary of the founding of Eureka College on February 6, 1855, and is scheduled to run weekly through February 6, 2016.
 ---
