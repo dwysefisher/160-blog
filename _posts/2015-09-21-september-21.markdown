@@ -28,7 +28,7 @@ In 1928, a young man by the name of Ronald Wilson Reagan started his first day o
 
 On September 21, 1916, On this date in 1916, Eureka College held groundbreaking ceremonies to initiate the construction of Vennum Science Hall on the northwestern corner of the campus. The building was completed by the spring semester of the 1917-18 school year.
 
-![Vennum Science Hall, c. 1920]({{ site.baseurl }}/img/vennum_ca1920-web.jpg "Vennum Science Hall, c. 1920")
+![Vennum Science Hall, c. 1920]({{ site.baseurl }}/img/vennum-binkley-hall-c1920-web.jpg "Vennum Science Hall, c. 1920")
 <p class="caption">Vennum Science Hall, c. 1920</p>
 
 The following description of Vennum-Binkley Science Hall [the current name of the facility] is taken from a draft copy of "The Architecture of Eureka College" - an informative brochure that [hopefully] will be published in the not-too-distant future:
